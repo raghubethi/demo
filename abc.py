@@ -1,2 +1,2 @@
-print "hello"
+print "my hello"
 print "bye"
